@@ -9,7 +9,7 @@
 body {
     font-family: Arial, sans-serif; /* define a fonte principal do site */
     background-color: #fbffcd; /* define a cor de fundo da página */
-    color: #fbffcd; /* define a cor padrão dos textos */
+    color: #83a300; /* define a cor padrão dos textos */
 }
 
 /* estiliza o cabeçalho */
@@ -85,7 +85,7 @@ button:hover {
 
 /* estiliza a seção de informações */
 .informacoes {
-    background-color: white; /* define fundo branco */
+    background-color: #991818; /* define fundo branco */
     padding: 25px; /* adiciona espaço interno */
     border-radius: 10px; /* arredonda os cantos */
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15); /* adiciona sombra suave */
