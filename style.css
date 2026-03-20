@@ -14,7 +14,7 @@ body {
 
 /* estiliza o cabeçalho */
 header {
-     font-family: 'Serifada', Times New Roman, Optima, Didot, layfair Display; 
+    font-family: 'Serifada', Times New Roman, Optima, Didot, layfair Display; 
     background-color: #990100; /* define a cor de fundo do cabeçalho */
     color: white; /* define a cor do texto do cabeçalho */
     text-align: center; /* centraliza o texto dentro do cabeçalho */
