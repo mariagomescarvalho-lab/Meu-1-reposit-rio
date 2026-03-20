@@ -8,14 +8,14 @@
 /* estiliza o corpo geral da página */
 body {
     font-family: Arial, sans-serif; /* define a fonte principal do site */
-    background-color: #f0f4f8; /* define a cor de fundo da página */
-    color: #333333; /* define a cor padrão dos textos */
+    background-color: #fbffcd; /* define a cor de fundo da página */
+    color: #fbffcd; /* define a cor padrão dos textos */
 }
 
 /* estiliza o cabeçalho */
 header {
     font-family: 'Serifada', Times New Roman, Optima, Didot, layfair Display; 
-    background-color: #990100; /* define a cor de fundo do cabeçalho */
+    background-color: #5f0609; /* define a cor de fundo do cabeçalho */
     color: white; /* define a cor do texto do cabeçalho */
     text-align: center; /* centraliza o texto dentro do cabeçalho */
     padding: 30px; /* adiciona espaçamento interno em todos os lados */
@@ -30,7 +30,7 @@ main {
 
 /* estiliza o card principal de apresentação */
 .apresentacao {
-    background-color: #5f0609; /* define fundo branco para o card */
+    background-color: #890000; /* define fundo branco para o card */
     text-align: center; /* centraliza os textos e elementos internos */
     padding: 30px; /* adiciona espaço interno no card */
     border-radius: 10px; /* arredonda os cantos do card */
